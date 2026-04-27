@@ -1,7 +1,7 @@
 # 🫀 Heart Failure Prediction with Machine Learning
 
-**Author:** Mikeyas Brito dos Santos
-**Co-Author:** Pedro Kauan Silveira Silva
+- **Author:** Mikeyas Brito dos Santos
+- **Co-Author:** Pedro Kauan Silveira Silva
 
 A compact, reproducible project that predicts **death events** in patients with heart failure using clinical records. We compare multiple machine learning classifiers (KNN, Decision Tree, Random Forest, SVM, MLP, Logistic Regression, XGBoost, Gaussian Naive Bayes, Nearest Centroid) using cross-validation with NearMiss undersampling pipeline, and statistical validation via **Wilcoxon signed-rank test**.
 
